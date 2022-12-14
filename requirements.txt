@@ -1,0 +1,5 @@
+pandas
+plotly
+rpy2==3.5.1
+pyreadr
+nbformat>=4.2.0
